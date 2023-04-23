@@ -1,0 +1,10 @@
+44444444:PQRSTU12:Audi:A4:Plateado:19.0:false:5:
+77777777:VWXYZ90:BMW:X3:Azul Oscuro:23.0:false:4:
+98765432:54321GHI:Chevrolet:Camaro:Negro:26.0:false:2:
+44455566:ZXCVB78:Fiat:500:Rojo:15.0:false:4:
+55555555:67890DEF:Ford:Fiesta:Rojo:12.0:false:5:
+22222222:FGHIJ456:Honda:Civic:Blanco:19.0:false:5:
+88888888:QWERTY12:Mercedes:Clase A:Blanco:156.0:false:5:
+99999999:ASDFG34:Renault:Clio:Azul:13.0:false:5:
+11111111:ABCDE123:Toyota:Corolla:Gris:14.0:false:5:
+33333333:KLMNO789:Volkswagen:Golf:Verde:13.0:false:4:

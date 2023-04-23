@@ -1,0 +1,10 @@
+37345673:32348CBM:Sea3:Ibiza3:Verde:3.0:false:4:
+19345671:12345ABC:Seat1:Ibiza1:Azul:1.0:false:4:
+12345679:12341JBD:Seat10:Ibiza10:Rosa:41.0:false:4:
+28345672:22349BBO:Seat2:Ibiza2:Rojo:2.0:false:4:
+46345674:42347DBN:Seat4:Ibiza4:Morado:41.0:false:4:
+55345675:52346EBC:Seat5:Ibiza5:Naranja:11.0:false:4:
+64345676:62345FBA:Seat6:Ibiza6:Amarillo:21.0:false:4:
+73345677:72344GBH:Seat7:Ibiza7:Negro:31.0:false:4:
+82345678:82343HBE:Seat8:Ibiza8:Blanco:41.0:false:4:
+91345675:92342IBC:Seat9:Ibiza9:Gris:71.0:false:4:

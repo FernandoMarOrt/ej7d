@@ -1,0 +1,10 @@
+10000005:OP345QR:Citroen:Jumper:Verde:10.0:false:300:
+10000007:WX901YZ:Fiat:Ducato:Gris:10.0:false:300:
+10000001:AB123CD:Ford:Transit:Roja:8.0:false:250:
+10000008:AB234CD:Iveco:Daily:Negra:14.0:false:400:
+10000004:KL012MN:Mercedes-Benz:Sprinter:Negra:12.0:false:350:
+10000010:GH890IJ:Nissan:NV400:Roja:8.0:false:250:
+10000009:CD567EF:Opel:Movano:Azul:12.0:false:350:
+10000006:ST678UV:Peugeot:Boxer:Blanco:8.0:false:250:
+10000002:CD456EF:Renault:Kangoo:Azul:6.0:false:200:
+10000003:GH789IJ:Volkswagen:Caddy:Gris:4.0:false:150:
